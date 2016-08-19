@@ -1,0 +1,11 @@
+{
+  "name": "Lending Bot (Poloniex)",
+  "exchange": "Poloniex",
+  "key": "B6VYBQ9J-EHT7MJS0-YAOOS3LP-VGKLB1XD",
+  "options": {
+    "days": 2,
+    "minLendingRate": 0.0001,
+    "maxLendingRate": 0.05,
+    "minLendingAmount": 0.1
+  }
+}
